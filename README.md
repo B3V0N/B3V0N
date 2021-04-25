@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bevon </h1>
 <h3 align="center">Cybersecurity Analyst</h3>
 
+<p align="center">
 - 🔭 I’m currently working on **website**
 
 - 🌱 I’m currently learning **Penetration testing**
@@ -15,12 +16,17 @@
 - 📫 How to reach me **bevonojiambo@gmail.com**
 
 - ⚡ Fun fact **I love tinkering with computer hardware**
+<p/>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/p3dr0h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="p3dr0h_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bevon-o-s-c-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bevon-o-s-c-p" height="30" width="40" /></a>
-</p>
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 <br />
 
