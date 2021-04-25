@@ -3,7 +3,7 @@
 <h3 align="left">Cybersecurity Analyst</h3>
 
 
-- 🔭 I’m currently working on **website**
+- 🔭 I’m currently working on **web application**
 
 - 🌱 I’m currently learning **Penetration testing**
 
