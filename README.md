@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **information system security**
 
-- 🤝 I’m looking for help with **web development**
-
 - 💬 Ask me about **network system security**
 
 - 📫 How to reach me **bevonojiambo@gmail.com**
