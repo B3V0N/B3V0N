@@ -1,22 +1,29 @@
 ### Hi there 👋, my name is Bevon - aka [B3V0N] 
 #### I am Cybersecurity Analyst
-[I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Profile Summary
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🌱 I’m currently learning pentration testing
-- 👯 I’m looking to collaborate with other cybersecurity professionals
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love tinkering with computer hardware
 
 
 <h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi 👋, I'm Bevon - aka [b3v0n]</h1>
+<h3 align="center">Cybersecurity Analyst</h3>
+
+- 🔭 I’m currently working on **website**
+
+- 🌱 I’m currently learning **Penetration testing**
+
+- 👯 I’m looking to collaborate on **web development**
+
+- 🤝 I’m looking for help with **web development**
+
+- 💬 Ask me about **network system security**
+
+- 📫 How to reach me **bevonojiambo@gmail.com**
+
+- ⚡ Fun fact **I love tinkering with computer hardware**
+
 <p align="left">
 <a href="https://twitter.com/p3dr0h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="p3dr0h_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bevon-o-s-c-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bevon-o-s-c-p" height="30" width="40" /></a>
-<a href="https://medium.com/bevon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="bevon" height="30" width="40" /></a>
 </p>
 
 <br />
