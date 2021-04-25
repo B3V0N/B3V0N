@@ -20,11 +20,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="P3dr0h_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="bevon-o-s-c-p | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
-<br />
+<img align="left" alt="P3dr0h_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+<img align="left" alt="bevon-o-s-c-p | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
@@ -48,18 +45,6 @@
 <br />
 
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-[Coming Soon]
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...]()
-
----
-
-
 
 
 
