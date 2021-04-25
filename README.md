@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Penetration testing**
 
-- 👯 I’m looking to collaborate on **information system security**
+- 👯 I’m looking to collaborate on **cybersecurity, CTF challenges**
 
 - 💬 Ask me about **network system security**
 
 - 📫 How to reach me **bevonojiambo@gmail.com**
 
-- ⚡ Fun fact **I love tinkering with computer hardware**
+- ⚡ Fun fact **I love tinkering with computer hardware and penetration testing**
 
 
 ### Connect with me:
