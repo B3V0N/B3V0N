@@ -1,8 +1,3 @@
-### Hi there 👋, my name is Bevon - aka [B3V0N] 
-#### I am Cybersecurity Analyst
-
-
-
 
 <h1 align="center">Hi 👋, I'm Bevon - aka [b3v0n]</h1>
 <h3 align="center">Cybersecurity Analyst</h3>
@@ -55,20 +50,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://b3v0n.o.com)
+➡️ [more blog posts...]()
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="B3V0N's GitHub Stats" src="https://github-readme-stats.b3v0n.vercel.app/api?username=B3V0N&show_icons=true&hide_border=true" />
-
-</details>
 
 
 
