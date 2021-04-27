@@ -9,11 +9,6 @@
 
 - ⚡ Fun fact **I love tinkering with computer hardware and penetration testing**
 
-
-### Connect with me:
-
-<a href="https://twitter.com/p3dr0h_" target="blank"><img align="left" alt="http://twitter.com/p3dr0h_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<a href="https://linkedin.com/in/bevon-o-s-c-p" target="blank"><img align="left" alt="www.linkedin.com/in/bevon-o-s-c-p | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   
 <br />
 
