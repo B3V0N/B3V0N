@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **network and hardware security**
 
-- ⚡ Fun fact **I love tinkering with computer hardware and disassemble them to learn new exploits, research on them and fix them**
+- ⚡ Fun fact **I love tinkering with computer hardware and disassemble them to research on them, learn new exploits and fix them**
 
   
 <br />
