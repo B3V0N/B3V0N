@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on IoT (RaspberryPi) project and interests are **hardware, networking and wireless security**
 
-- 👯 I’m looking to collaborate on ** open source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **network and hardware security**
 
