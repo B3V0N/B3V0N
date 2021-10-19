@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently working on IoT (RaspberryPi) project and interests are **hardware, networking and wireless security**
 
-- 👯 I’m looking to collaborate on **web development and open source projects**
+- 👯 I’m looking to collaborate on ** open source projects**
 
 - 💬 Ask me about **network and hardware security**
 
-- ⚡ Fun fact **I love tinkering with computer hardware and disassemble them to research on them, learn new exploits and fix them**
+- ⚡ Fun fact **I love tinkering with computer hardware to research on them, learn new exploits and fix them**
 
   
 <br />
