@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Bevon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
 
 
-- 🌱 I’m currently working on IoT (RaspberryPi) project and interests are **hardware, networking and wireless security**
+- 🌱 I’m currently working on **pentesting and hardware labs**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **web applications projects**
 
-- 💬 Ask me about **network and hardware security**
+- 💬 Ask me about **wireless, web applications and hardware security**
 
 - ⚡ Fun fact **I love tinkering with computer hardware to research on them, learn new exploits and fix them or build new tools**
 
