@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently working on **penetration testing and hardware labs**
 
-- 👯 I’m looking to collaborate on **hardware and web applications projects**
+- 👯 I’m looking to collaborate on **cybersecurity projects**
 
-- 💬 Ask me about **wireless, web applications and hardware security**
+- 💬 Ask me about **wireless, network and hardware security**
 
-- ⚡ Fun fact **tinkering and exploiting hardware**
+- ⚡ Fun fact **tinkering and exploiting hardware vulnerabilities**
 
   
 <br />
