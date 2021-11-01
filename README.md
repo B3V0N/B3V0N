@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **wireless, web applications and hardware security**
 
-- ⚡ Fun fact **I love tinkering with computer hardware to research on them, learn new exploits and fix them or build new tools**
+- ⚡ Fun fact **tinkering and exploiting hardware**
 
   
 <br />
