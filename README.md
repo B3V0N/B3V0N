@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **pentesting and hardware labs**
 
-- 👯 I’m looking to collaborate on **cybersecurity projects**
+- 👯 I’m looking to collaborate on **web application projects**
 
 - 💬 Ask me about **wireless, network and hardware security**
 
