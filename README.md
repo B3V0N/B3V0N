@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **tinkering and exploiting hardware vulnerabilities**
 
+- 🤔 Curious about **Artificial Intelligence and machine learning** 
+
   
 <br />
 
