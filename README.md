@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **tinkering and exploiting hardware vulnerabilities**
 
-- 🤔 Curious about **Artificial Intelligence and machine learning** 
+- 🤔 Curious about **A.I. and machine learning in cybersecurity** 
 
   
 <br />
