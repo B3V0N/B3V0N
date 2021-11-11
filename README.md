@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working on **pentesting and hardware labs**
 
-- 👯 I’m looking to learn and collaborate on **exploit development**
-
 - 💬 Ask me about **wireless, network and hardware security**
 
 - ⚡ Fun fact **tinkering and exploiting hardware vulnerabilities**
